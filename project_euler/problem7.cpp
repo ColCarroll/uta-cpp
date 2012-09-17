@@ -36,7 +36,7 @@ int main(){ // computes the (top) prime
       count++;
       }
   }
-  cout << "Prime number "<<top<< " is " <<n <<".\n";
+  cout << "Prime number "<<top<< " is, strangely enough, " <<n <<".\n";
   return n;
 }
 
