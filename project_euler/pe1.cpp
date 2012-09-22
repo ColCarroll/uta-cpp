@@ -4,6 +4,8 @@
 //  Start time: 4:03
 //  Finish time: 4:16
 
+// Editing here online (at uta-cpp) to see how to pull down and merge locally
+
 #include <iostream>
 using namespace std;
 
