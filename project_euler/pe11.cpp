@@ -21,7 +21,7 @@ int main ()
 {
   readFile();
 
-  int biggest = 0;
+  int biggest = 1;
 
   biggest = horizontal(biggest);
   biggest = vertical(biggest);
@@ -29,13 +29,6 @@ int main ()
   biggest = diagup(biggest);
 
   cout << "The biggest 4 adjacent guys are: " << biggest << endl;
-
-  /* Old: reads out the grid ina pretty crude way:
-  for (int i = 0;i < 400; i++)
-    { 
-      cout << grid[i/20][i%20]<< endl;
-    }
-  */
 
   return 0;
 }
@@ -49,7 +42,7 @@ void readFile ()
   for (int i = 0; i < 400; i++)
     {
       int n;
-      fp_in >> n;
+      fp_in >> n; // stores into n the next thing in fp_in separated by any white space
       grid[i/20][i%20] = n;
     }
 
