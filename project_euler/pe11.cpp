@@ -1,9 +1,7 @@
 //  This is project euler problem 11:
 //  What is the greatest product of four adjacent numbers in any 
 //  direction (up, down, left, right, or diagonally) in the 20×20 grid?
-//  
-//  Start time: 4:28
-//  Finish time: 4:53
+//  Forgot to track my time spent on this one (oops!)
 
 #include <iostream>  // I/O 
 #include <fstream>   // file I/O
