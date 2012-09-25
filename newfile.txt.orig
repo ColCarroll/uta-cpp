@@ -1,0 +1,19 @@
+This text file is testing out how branches work.
+
+<<<<<<< HEAD
+Heya, champions
+
+Yeah!  Sup, studs!
+
+<3, KCK487
+
+CAN YOU READ THIS CHRIS WHITE
+
+std::cout << YEA MAN I CAN!!!!
+
+I'm here too! - N
+
+You must of course mean "Na"
+=======
+Hey everybody, this is Chris. can you see me?
+>>>>>>> origin/colin_branch
