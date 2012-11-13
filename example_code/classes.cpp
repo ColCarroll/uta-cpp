@@ -5,7 +5,7 @@ using namespace std;
 class GradStudent;
 
 class Person
-{
+{//this is a test comment
     private:
         int SSN;
     protected:
